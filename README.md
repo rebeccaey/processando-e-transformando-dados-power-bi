@@ -1,6 +1,7 @@
 Desafio Processando e Transformando Dados no Power BI
 
 - Relatório Descritivo:
+  
   Alteração de valores monetários de Salary (Salário) na tabela employee para o tipo double preciso
   
   Separação da coluna complexa Address (Endereço) na tabela employee, separando por delimitador em Number (Número), State (Estado), City (Cidade) e FU (Federal Unit/Unidade Federativa)
