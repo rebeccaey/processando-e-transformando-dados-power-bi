@@ -14,3 +14,6 @@ Desafio Processando e Transformando Dados no Power BI
 
 - Obs:
   Mesclar consultas tem o objetivo de apenas unir colunas entre tabelas, ou seja, trabalhando de forma colunar. Já combinar consultas tem o objetivo de unificar apenas as linhas entre as tabelas.
+
+- Relatório:
+  ![image](https://github.com/rebeccaey/processando-e-transformando-dados-power-bi/assets/111652786/4f458602-5492-4d7f-8cbd-8243bb38b17b)
